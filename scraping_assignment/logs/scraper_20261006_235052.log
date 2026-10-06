@@ -1,0 +1,189 @@
+2026-10-06 23:50:52,119 | INFO     | pipeline | === Scraping Books to Scrape ===
+2026-10-06 23:50:55,563 | INFO     | scrapers.http_client | GET https://books.toscrape.com/ -> 200
+2026-10-06 23:50:55,685 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/
+2026-10-06 23:50:56,832 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-2.html -> 200
+2026-10-06 23:50:57,291 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 23:50:59,013 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-3.html -> 200
+2026-10-06 23:50:59,336 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 23:51:00,024 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-4.html -> 200
+2026-10-06 23:51:00,338 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 23:51:00,867 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-5.html -> 200
+2026-10-06 23:51:01,284 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 23:51:01,700 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-6.html -> 200
+2026-10-06 23:51:01,748 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 23:51:02,515 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-7.html -> 200
+2026-10-06 23:51:02,670 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 23:51:03,351 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-8.html -> 200
+2026-10-06 23:51:03,444 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 23:51:04,194 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-9.html -> 200
+2026-10-06 23:51:04,317 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 23:51:05,018 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-10.html -> 200
+2026-10-06 23:51:05,097 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 23:51:05,887 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-11.html -> 200
+2026-10-06 23:51:05,990 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 23:51:06,768 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-12.html -> 200
+2026-10-06 23:51:06,907 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 23:51:07,627 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-13.html -> 200
+2026-10-06 23:51:07,752 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 23:51:08,496 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-14.html -> 200
+2026-10-06 23:51:08,570 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 23:51:09,470 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-15.html -> 200
+2026-10-06 23:51:09,550 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 23:51:11,147 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-16.html -> 200
+2026-10-06 23:51:11,269 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 23:51:12,270 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-17.html -> 200
+2026-10-06 23:51:12,441 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 23:51:13,398 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-18.html -> 200
+2026-10-06 23:51:13,519 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 23:51:14,567 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-19.html -> 200
+2026-10-06 23:51:14,647 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 23:51:15,701 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-20.html -> 200
+2026-10-06 23:51:15,823 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 23:51:16,817 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-21.html -> 200
+2026-10-06 23:51:16,942 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 23:51:17,925 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-22.html -> 200
+2026-10-06 23:51:18,087 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 23:51:19,064 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-23.html -> 200
+2026-10-06 23:51:19,226 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 23:51:20,388 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-24.html -> 200
+2026-10-06 23:51:20,534 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 23:51:21,799 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-25.html -> 200
+2026-10-06 23:51:21,975 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 23:51:22,782 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-26.html -> 200
+2026-10-06 23:51:22,885 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 23:51:23,714 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-27.html -> 200
+2026-10-06 23:51:23,841 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 23:51:24,718 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-28.html -> 200
+2026-10-06 23:51:24,871 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 23:51:25,687 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-29.html -> 200
+2026-10-06 23:51:25,809 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 23:51:27,091 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-30.html -> 200
+2026-10-06 23:51:27,268 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 23:51:28,344 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-31.html -> 200
+2026-10-06 23:51:28,489 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 23:51:29,458 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-32.html -> 200
+2026-10-06 23:51:29,603 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 23:51:30,628 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-33.html -> 200
+2026-10-06 23:51:30,735 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 23:51:31,584 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-34.html -> 200
+2026-10-06 23:51:31,666 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 23:51:32,549 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-35.html -> 200
+2026-10-06 23:51:32,685 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 23:51:33,484 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-36.html -> 200
+2026-10-06 23:51:33,588 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 23:51:34,436 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-37.html -> 200
+2026-10-06 23:51:34,588 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 23:51:35,541 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-38.html -> 200
+2026-10-06 23:51:35,665 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 23:51:36,661 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-39.html -> 200
+2026-10-06 23:51:36,793 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 23:51:37,502 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-40.html -> 200
+2026-10-06 23:51:37,642 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 23:51:38,468 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-41.html -> 200
+2026-10-06 23:51:38,584 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 23:51:39,417 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-42.html -> 200
+2026-10-06 23:51:39,510 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 23:51:40,401 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-43.html -> 200
+2026-10-06 23:51:40,560 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 23:51:41,380 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-44.html -> 200
+2026-10-06 23:51:41,527 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 23:51:42,583 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-45.html -> 200
+2026-10-06 23:51:42,721 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 23:51:43,701 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-46.html -> 200
+2026-10-06 23:51:43,807 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 23:51:44,661 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-47.html -> 200
+2026-10-06 23:51:44,737 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 23:51:45,942 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-48.html -> 200
+2026-10-06 23:51:46,047 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 23:51:47,248 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-49.html -> 200
+2026-10-06 23:51:47,372 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 23:51:48,503 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/page-50.html -> 200
+2026-10-06 23:51:48,621 | INFO     | scrapers.base_scraper | Parsed 20 records from https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 23:51:48,639 | INFO     | scrapers.base_scraper | Books to Scrape: 1000 records, 50 pages ok, 0 pages failed
+2026-10-06 23:51:49,624 | INFO     | scrapers.http_client | GET https://books.toscrape.com/ -> 200
+2026-10-06 23:51:49,708 | INFO     | scrapers.books_scraper | Found 50 categories
+2026-10-06 23:51:50,462 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/travel_2/index.html -> 200
+2026-10-06 23:51:51,756 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/mystery_3/index.html -> 200
+2026-10-06 23:51:52,602 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/mystery_3/page-2.html -> 200
+2026-10-06 23:51:53,805 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/historical-fiction_4/index.html -> 200
+2026-10-06 23:51:54,644 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/historical-fiction_4/page-2.html -> 200
+2026-10-06 23:51:55,883 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html -> 200
+2026-10-06 23:51:56,963 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/sequential-art_5/page-2.html -> 200
+2026-10-06 23:51:58,113 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/sequential-art_5/page-3.html -> 200
+2026-10-06 23:51:59,048 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/sequential-art_5/page-4.html -> 200
+2026-10-06 23:52:00,149 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/classics_6/index.html -> 200
+2026-10-06 23:52:00,981 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/philosophy_7/index.html -> 200
+2026-10-06 23:52:02,294 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/romance_8/index.html -> 200
+2026-10-06 23:52:03,234 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/romance_8/page-2.html -> 200
+2026-10-06 23:52:04,346 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/womens-fiction_9/index.html -> 200
+2026-10-06 23:52:05,536 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/fiction_10/index.html -> 200
+2026-10-06 23:52:06,754 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/fiction_10/page-2.html -> 200
+2026-10-06 23:52:07,870 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/fiction_10/page-3.html -> 200
+2026-10-06 23:52:08,689 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/fiction_10/page-4.html -> 200
+2026-10-06 23:52:09,968 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/childrens_11/index.html -> 200
+2026-10-06 23:52:10,806 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/childrens_11/page-2.html -> 200
+2026-10-06 23:52:11,728 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/religion_12/index.html -> 200
+2026-10-06 23:52:13,002 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/nonfiction_13/index.html -> 200
+2026-10-06 23:52:14,116 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/nonfiction_13/page-2.html -> 200
+2026-10-06 23:52:15,227 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/nonfiction_13/page-3.html -> 200
+2026-10-06 23:52:16,346 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/nonfiction_13/page-4.html -> 200
+2026-10-06 23:52:17,466 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/nonfiction_13/page-5.html -> 200
+2026-10-06 23:52:18,313 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/nonfiction_13/page-6.html -> 200
+2026-10-06 23:52:19,593 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/music_14/index.html -> 200
+2026-10-06 23:52:20,846 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/default_15/index.html -> 200
+2026-10-06 23:52:21,957 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/default_15/page-2.html -> 200
+2026-10-06 23:52:23,073 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/default_15/page-3.html -> 200
+2026-10-06 23:52:24,350 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/default_15/page-4.html -> 200
+2026-10-06 23:52:25,469 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/default_15/page-5.html -> 200
+2026-10-06 23:52:26,316 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/default_15/page-6.html -> 200
+2026-10-06 23:52:27,547 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/default_15/page-7.html -> 200
+2026-10-06 23:52:28,378 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/default_15/page-8.html -> 200
+2026-10-06 23:52:29,635 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/science-fiction_16/index.html -> 200
+2026-10-06 23:52:30,461 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/sports-and-games_17/index.html -> 200
+2026-10-06 23:52:31,724 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/add-a-comment_18/index.html -> 200
+2026-10-06 23:52:32,854 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/add-a-comment_18/page-2.html -> 200
+2026-10-06 23:52:34,118 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/add-a-comment_18/page-3.html -> 200
+2026-10-06 23:52:34,936 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/add-a-comment_18/page-4.html -> 200
+2026-10-06 23:52:36,107 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/fantasy_19/index.html -> 200
+2026-10-06 23:52:37,341 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/fantasy_19/page-2.html -> 200
+2026-10-06 23:52:38,245 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/fantasy_19/page-3.html -> 200
+2026-10-06 23:52:39,089 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/new-adult_20/index.html -> 200
+2026-10-06 23:52:40,362 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/young-adult_21/index.html -> 200
+2026-10-06 23:52:41,476 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/young-adult_21/page-2.html -> 200
+2026-10-06 23:52:42,463 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/young-adult_21/page-3.html -> 200
+2026-10-06 23:52:43,717 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/science_22/index.html -> 200
+2026-10-06 23:52:44,833 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/poetry_23/index.html -> 200
+2026-10-06 23:52:45,640 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/paranormal_24/index.html -> 200
+2026-10-06 23:52:46,768 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/art_25/index.html -> 200
+2026-10-06 23:52:47,988 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/psychology_26/index.html -> 200
+2026-10-06 23:52:49,187 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/autobiography_27/index.html -> 200
+2026-10-06 23:52:50,090 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/parenting_28/index.html -> 200
+2026-10-06 23:52:50,924 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/adult-fiction_29/index.html -> 200
+2026-10-06 23:52:52,067 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/humor_30/index.html -> 200
+2026-10-06 23:52:55,414 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/horror_31/index.html -> 200
+2026-10-06 23:52:56,838 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/history_32/index.html -> 200
+2026-10-06 23:52:58,464 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/food-and-drink_33/index.html -> 200
+2026-10-06 23:53:00,034 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/food-and-drink_33/page-2.html -> 200
+2026-10-06 23:53:01,163 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/christian-fiction_34/index.html -> 200
+2026-10-06 23:53:02,721 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/business_35/index.html -> 200
+2026-10-06 23:53:03,893 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/biography_36/index.html -> 200
+2026-10-06 23:53:05,476 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/thriller_37/index.html -> 200
+2026-10-06 23:53:06,605 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/contemporary_38/index.html -> 200
+2026-10-06 23:53:07,768 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/spirituality_39/index.html -> 200
+2026-10-06 23:53:09,009 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/academic_40/index.html -> 200
+2026-10-06 23:53:10,282 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/self-help_41/index.html -> 200
+2026-10-06 23:53:11,403 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/historical_42/index.html -> 200
+2026-10-06 23:53:12,490 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/christian_43/index.html -> 200
+2026-10-06 23:53:13,646 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/suspense_44/index.html -> 200
+2026-10-06 23:53:14,762 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/short-stories_45/index.html -> 200
+2026-10-06 23:53:15,946 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/novels_46/index.html -> 200
+2026-10-06 23:53:17,183 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/health_47/index.html -> 200
+2026-10-06 23:53:18,448 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/politics_48/index.html -> 200
+2026-10-06 23:53:19,560 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/cultural_49/index.html -> 200
+2026-10-06 23:53:20,684 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/erotica_50/index.html -> 200
+2026-10-06 23:53:21,800 | INFO     | scrapers.http_client | GET https://books.toscrape.com/catalogue/category/books/crime_51/index.html -> 200
+2026-10-06 23:53:21,858 | INFO     | scrapers.books_scraper | Categories attached; 0 books without a category
+2026-10-06 23:53:21,859 | INFO     | pipeline | === Cleaning ===
+2026-10-06 23:53:21,954 | INFO     | pipeline | === Validating 1000 records ===
+2026-10-06 23:53:21,990 | INFO     | pipeline | === Deduplicating 1000 valid records ===
+2026-10-06 23:53:22,049 | INFO     | pipeline | Done: {'scraped': 1000, 'cleaned': 1000, 'rejected': 0, 'duplicates_removed': 0, 'final': 1000}

@@ -1,0 +1,9 @@
+# Runtime dependencies (Python 3.10 - 3.12)
+# Developed/tested with: requests 2.33.1, beautifulsoup4 4.14.3, lxml 6.0.2
+# To freeze the exact versions of YOUR environment run: pip freeze > requirements.lock
+requests>=2.31,<3
+beautifulsoup4>=4.12,<5
+lxml>=5.0,<7
+
+# Tests use the standard-library unittest module, so no extra package is needed.
+# (pytest also works if you prefer it: pip install pytest)

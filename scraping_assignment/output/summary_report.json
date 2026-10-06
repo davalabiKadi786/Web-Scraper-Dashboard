@@ -1,0 +1,48 @@
+{
+  "run": {
+    "started_at": "2026-10-06T18:41:12+00:00",
+    "finished_at": "2026-10-06T18:41:23+00:00",
+    "duration_seconds": 11.11,
+    "arguments": {
+      "sources": [
+        "quotes"
+      ],
+      "max_pages": null,
+      "no_categories": false,
+      "with_details": false,
+      "delay": 0.5,
+      "output_dir": "C:\\Users\\user\\Downloads\\realisieren\\scraping_assignment\\output",
+      "log_dir": "C:\\Users\\user\\Downloads\\realisieren\\scraping_assignment\\logs",
+      "log_level": "INFO"
+    }
+  },
+  "sources": {
+    "Quotes to Scrape": {
+      "pages_fetched": 10,
+      "pages_failed": 0,
+      "supporting_pages_fetched": 0,
+      "supporting_pages_failed": 0,
+      "failed_urls": [],
+      "parse_errors": 0,
+      "scraper_error": null,
+      "scraped": 100,
+      "cleaned": 100,
+      "rejected": 0,
+      "rejection_reasons": {},
+      "duplicates_removed": 0,
+      "final": 100
+    }
+  },
+  "totals": {
+    "scraped": 100,
+    "cleaned": 100,
+    "rejected": 0,
+    "duplicates_removed": 0,
+    "final": 100
+  },
+  "checks": {
+    "scraped_equals_rejected_plus_duplicates_plus_final": true,
+    "csv_rows": 100,
+    "csv_rows_match_final_total": true
+  }
+}

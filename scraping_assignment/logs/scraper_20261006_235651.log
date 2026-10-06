@@ -1,0 +1,26 @@
+2026-10-06 23:56:51,966 | INFO     | pipeline | === Scraping Quotes to Scrape ===
+2026-10-06 23:56:53,507 | INFO     | scrapers.http_client | GET https://quotes.toscrape.com/ -> 200
+2026-10-06 23:56:53,585 | INFO     | scrapers.base_scraper | Parsed 10 records from https://quotes.toscrape.com/
+2026-10-06 23:56:54,718 | INFO     | scrapers.http_client | GET https://quotes.toscrape.com/page/2/ -> 200
+2026-10-06 23:56:55,118 | INFO     | scrapers.base_scraper | Parsed 10 records from https://quotes.toscrape.com/page/2/
+2026-10-06 23:56:55,600 | INFO     | scrapers.http_client | GET https://quotes.toscrape.com/page/3/ -> 200
+2026-10-06 23:56:55,615 | INFO     | scrapers.base_scraper | Parsed 10 records from https://quotes.toscrape.com/page/3/
+2026-10-06 23:56:56,402 | INFO     | scrapers.http_client | GET https://quotes.toscrape.com/page/4/ -> 200
+2026-10-06 23:56:56,450 | INFO     | scrapers.base_scraper | Parsed 10 records from https://quotes.toscrape.com/page/4/
+2026-10-06 23:56:57,188 | INFO     | scrapers.http_client | GET https://quotes.toscrape.com/page/5/ -> 200
+2026-10-06 23:56:57,247 | INFO     | scrapers.base_scraper | Parsed 10 records from https://quotes.toscrape.com/page/5/
+2026-10-06 23:56:57,995 | INFO     | scrapers.http_client | GET https://quotes.toscrape.com/page/6/ -> 200
+2026-10-06 23:56:58,038 | INFO     | scrapers.base_scraper | Parsed 10 records from https://quotes.toscrape.com/page/6/
+2026-10-06 23:56:58,842 | INFO     | scrapers.http_client | GET https://quotes.toscrape.com/page/7/ -> 200
+2026-10-06 23:56:58,864 | INFO     | scrapers.base_scraper | Parsed 10 records from https://quotes.toscrape.com/page/7/
+2026-10-06 23:57:00,065 | INFO     | scrapers.http_client | GET https://quotes.toscrape.com/page/8/ -> 200
+2026-10-06 23:57:00,112 | INFO     | scrapers.base_scraper | Parsed 10 records from https://quotes.toscrape.com/page/8/
+2026-10-06 23:57:01,185 | INFO     | scrapers.http_client | GET https://quotes.toscrape.com/page/9/ -> 200
+2026-10-06 23:57:01,217 | INFO     | scrapers.base_scraper | Parsed 10 records from https://quotes.toscrape.com/page/9/
+2026-10-06 23:57:02,195 | INFO     | scrapers.http_client | GET https://quotes.toscrape.com/page/10/ -> 200
+2026-10-06 23:57:02,211 | INFO     | scrapers.base_scraper | Parsed 10 records from https://quotes.toscrape.com/page/10/
+2026-10-06 23:57:02,216 | INFO     | scrapers.base_scraper | Quotes to Scrape: 100 records, 10 pages ok, 0 pages failed
+2026-10-06 23:57:02,216 | INFO     | pipeline | === Cleaning ===
+2026-10-06 23:57:02,227 | INFO     | pipeline | === Validating 100 records ===
+2026-10-06 23:57:02,230 | INFO     | pipeline | === Deduplicating 100 valid records ===
+2026-10-06 23:57:02,244 | INFO     | pipeline | Done: {'scraped': 100, 'cleaned': 100, 'rejected': 0, 'duplicates_removed': 0, 'final': 100}
